@@ -1,2 +1,4 @@
-# Apoorva_python
-CS384 shizz
+
+# CS384 shizz
+Repo for assignments of CS384
+
